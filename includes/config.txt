@@ -1,0 +1,15 @@
+{
+  "host"          : "https://app.cms2cms.com",
+  "youtube"       : "http://www.youtube.com/watch?feature=player_detailpage&v=DQK01NbrCdw#t=25s",
+  "feedback"      : "http://cms2cms.polldaddy.com/s/survey",
+  "support"       : "//support.magneticone.com/visitor/index.php?/Default/LiveChat/Chat/Request/_sessionID=/_promptType=chat/_proactive=0/_filterDepartmentID=55/_randomNumber=bnkpattsb316qulj4o15lvdbkq6qsw53",
+  "wizard"        : "https://app.cms2cms.com/wizard",
+  "facebook"      : "//www.facebook.com/Cms2Cms/",
+  "twitter"       : "//twitter.com/cms2cms",
+  "wp_feedback"   : "//wordpress.org/support/view/plugin-reviews/cms2cms-joomla-to-wp-migration",
+  "public_host"   : "//www.cms2cms.com",
+  "bridge"        : "https://app.cms2cms.com/bridge/download",
+  "ticket"        : "//support.magneticone.com/index.php?/Tickets/Submit/RenderForm/56",
+  "logout"        : "https://app.cms2cms.com/auth/logout",
+  "auth_check"    : "https://app.cms2cms.com/api/auth-check"
+}

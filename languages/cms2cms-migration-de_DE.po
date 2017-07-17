@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CMS2CMS HTML to WordPress\n"
+"POT-Creation-Date: 2013-06-21 12:38+0200\n"
+"PO-Revision-Date: 2016-07-26 15:59+0300\n"
+"Last-Translator: cms2cms <dev@cms2cms.com>\n"
+"Language-Team: cms2cms <dev@cms2cms.com>\n"
+"Language: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/cms2cms.js:75
+msgid "Unknown error, please contact us http://www.cms2cms.com/contacts/"
+msgstr ""
+"Unbekannter Fehler, bitte setzen Sie sich mit uns in Verbindung http://www."
+"cms2cms.com/contacts/"
+
+#: ../js/cms2cms.js:313
+msgid "New version"
+msgstr "Neue Version"
+
+#: ../js/cms2cms.js:460
+msgid "Something gone wrong, please try again later."
+msgstr "Es ist etwas schiefgelaufen, bitte versuchen Sie es später erneu."
+
+#: ../ui.php:118
+msgid "Don't have an account yet?"
+msgstr "Sie haben noch kein Konto?"
+
+#: ../ui.php:118
+msgid "Register"
+msgstr "Anmeldung"
+
+#: ../ui.php:119
+msgid "Already have an account?"
+msgstr "Sie haben schon ein Konto?"
+
+#: ../ui.php:142
+msgid "HTML website URL"
+msgstr "HTML Website-URL"
+
+#: ../ui.php:160
+msgid "Enter Pages URL"
+msgstr "Geben Sie die URL der Webseite ein"
+
+#: ../ui.php:205
+msgid "Estimated pages count:"
+msgstr "Geschätzte Seitenzahl:"
+
+#: ../ui.php:210
+msgid "Migrate Image Files (jpg, png, gif etc)"
+msgstr "Bilddateien migrieren (jpg, png, gif usw.)"
+
+#: ../ui.php:211
+msgid "It allows to transfer images from your Source to New website."
+msgstr ""
+"Es ermöglicht die Übertragung von Bildern von Ihrer Quelle auf die neue "
+"Webseite."
+
+#: ../ui.php:215
+msgid "Make URLs SEO-friendly"
+msgstr "Machen Sie die URL SEO-freundlich"
+
+#: ../ui.php:215
+msgid ""
+"It means that the internal links will be formed according to the SEO URLs "
+"structure configured on your New website."
+msgstr ""
+"Das bedeutet, dass die internen Links gemäß der SEO URL-Struktur, die auf "
+"Ihrer neuen Webseite konfiguriert wurde, erstellt werden."
+
+#: ../ui.php:219
+msgid "Permanent (301) Redirects from your Previous URLs to New URLs"
+msgstr "Dauerhafte (301) Weiterleitung von den vorherigen zu den neuen URL"
+
+#: ../ui.php:219
+msgid ""
+"301 redirect is the best way to keep your rankings and SEO by redirecting "
+"your previous URLs to the new URLs."
+msgstr ""
+"301 Weiterleitung ist die bestmögliche Art, Ihre Rankings und SEO zu "
+"behalten, indem Sie die vorherigen URL auf die neuen URL umleiten."
+
+#: ../ui.php:220
+msgid ""
+"Example. A visitor/search engine bot trying to access your website old URL "
+"will be automatically taken to the new one, which is the best practice to "
+"preserve your traffic and SEO after migration."
+msgstr ""
+"Beispiel. Ein Besucher/Suchmaschine, der/die versucht, auf die alte URL "
+"Ihrer Webseite zuzugreifen, wird automatisch auf die neue weitergeleitet. "
+"Das ist die beste Vorgehensweise, um Ihren Traffic und Ihre SEO nach der "
+"Migration zu erhalten."
+
+#: ../ui.php:225
+msgid "Migrate forms"
+msgstr "Formen migrieren"
+
+#: ../ui.php:225
+msgid "This option allows you to migrate content with forms to a new website."
+msgstr ""
+"Diese Option erlaubt es Ihnen, Inhalte mit Formen auf eine neue Webseite zu "
+"migrieren."
+
+#: ../ui.php:259
+msgid "Demo migration is done successfully"
+msgstr "Demomigration ist erfolgreich abgeschlossen."
+
+#: ../ui.php:260
+msgid "Check a few migrated pages"
+msgstr "Überprüfen Sie ein paar migrierte Seiten."
+
+#: ../ui.php:284
+msgid "Need help? The CMS2CMS Support Team is always ready to help you."
+msgstr ""
+"Brauchen Sie Hilfe? Das CMS2CMS Support Team steht jederzeit gerne zu Ihrer "
+"Verfügung."
+
+#: ../ui.php:285
+msgid ""
+"We try our best to provide you with a welcome place to go in case you got "
+"stuck, or want more details and specifics."
+msgstr ""
+"Wir geben unser Bestes, um Ihnen eine freundliche Anlaufstelle zu bieten, "
+"falls Sie einmal nicht weiterkommen oder weitere Details benötigen."
+
+#: ../ui.php:289
+msgid "Write a review"
+msgstr "Eine Bewertung schreiben."
+
+#: ../ui.php:295
+msgid "We can handle the website"
+msgstr "Wir können die Web"
+
+#: ../ui.php:296
+msgid "migration for you"
+msgstr "seitenmigration für Sie übernehmen."
+
+#: ../ui.php:301
+msgid "How It Works"
+msgstr "So funktioniert’s"
+
+#: ../ui.php:304
+msgid "Terms"
+msgstr "Bedingungen"
+
+#: ../ui.php:305
+msgid "Privacy"
+msgstr "Datenschutz"
+
+#: ../ui.php:305
+msgid "Submit a Ticket"
+msgstr "Ein Ticket einreichen"
+
+#: ../ui.php:55
+#, php-format
+msgid "You are logged in CMS2CMS as %s"
+msgstr "Sie sind als %s in CMS2CMS eingeloggt"
+
+#: ../ui.php:119
+msgid "Login"
+msgstr "Einloggen"
+
+#: ../ui.php:144
+#, php-format
+msgid "Name"
+msgstr "Name"
+
+#: ../ui.php:105
+msgid "Email:"
+msgstr "E-Mail:"
+
+#: ../ui.php:113
+msgid "Password:"
+msgstr "Passwort:"
+
+#: ../ui.php:133
+msgid "Continue"
+msgstr "Weiter"
+
+#: ../ui.php:97
+msgid "Forgot password?"
+msgstr "Passwort vergessen?"
+
+#: ../ui.php:91
+msgid "Get Estimate"
+msgstr "Kostenvoranschlag erhalten"
+
+#: ../ui.php:237
+msgid "Start Free Demo"
+msgstr "Kostenlose Demonstration starten"
+
+#: ../ui.php:237
+msgid "Demo Migration Complete"
+msgstr "Demomigration abgeschlossen"
+
+msgid "Start Full Migration"
+msgstr "Vollständige Migration starten"
+
+#: ../ui.php:237
+msgid "Page Detecting"
+msgstr "Seitenerkennung"
+
+#: ../ui.php:237
+msgid "Find pages automatically"
+msgstr "Seiten automatisch finden"
+
+#: ../ui.php:237
+msgid "Use my sitemap.xml file"
+msgstr "Meine Sitemap.XML-Datei"
+
+#: ../ui.php:237
+msgid "Manually enter urls."
+msgstr "URL manuell eingeben."
+
+#: ../ui.php:237
+msgid ""
+"That's just a part of the result. To get all the job done - please, go "
+"through the Full Migration."
+msgstr ""
+"Ce n'est qu'une partie du résultat. Pour terminer le travail – passer par la "
+"migration complète."
+
+#: ../ui.php:237
+msgid "Logout"
+msgstr "Abmelden"
+
+#: ../ui.php:237
+msgid "Sign In"
+msgstr "Anmelden"
+
+#: ../ui.php:237
+#, php-format
+msgid "Connect %s"
+msgstr "Verbinden %s"
+
+#: ../ui.php:237
+msgid "Choose menu"
+msgstr "Menü auswählen"
+
+#: ../ui.php:237
+msgid "Point Out the Main Menu of Your Site"
+msgstr "Aufzeigen des Hauptmenüs deiner Seite"
+
+#: ../ui.php:237
+msgid "To improve migration results please select one of the detected menu"
+msgstr ""
+"Um die Migrationsergebnisse zu verbessern, verwende bitte eins der "
+"gefundenen Menüs"
+
+#: ../ui.php:237
+msgid "Additional Options:"
+msgstr "Weitere Optionen:"
+
+#: ../ui.php:237
+msgid "Choose our"
+msgstr "Wähle unser"
+
+#: ../ui.php:237
+msgid "Content Pages:"
+msgstr "Seiteninhalte:"
+
+#: ../ui.php:237
+msgid "Price of the Full Migration:"
+msgstr "Preis für volle Migration:"
+
+#: ../ui.php:237
+msgid "Migration progress:"
+msgstr "Migrationsfortschritt:"
+
+#: ../ui.php:237
+msgid "Create Migration"
+msgstr "Migration beginnen"
+
+#: ../ui.php:237
+msgid "Got Feedback?"
+msgstr "Möchtest du ein Feedback abgeben?"
+
+#: ../ui.php:237
+msgid "website URL"
+msgstr "Webseiten URL"
+
+#: ../ui.php:237
+msgid "Download bridge"
+msgstr "Überbrückung herunterladen"
+
+#: ../ui.php:237
+msgid ""
+"and upload it to your source site root folder. For more information, please "
+"visit"
+msgstr ""
+"und in den Stammordner deiner Quellseite hochladen. Für weitere "
+"Informationen, besuche bitte den"
+
+#: ../ui.php:237
+msgid "link"
+msgstr "link"
+
+#: ../ui.php:237
+msgid "Mapping options:"
+msgstr "Mapping Optionen:"
+
+#: ../ui.php:237
+msgid "Additional options:"
+msgstr "Weitere Möglichkeiten:"
+
+#: ../ui.php:237
+msgid "Set Migration Options"
+msgstr "Migrationsmöglichkeiten verwalten"
+
+#: ../ui.php:237
+msgid "Estimated data (what should migrate during demo migration):"
+msgstr ""
+"Geschätzte Daten (die während der Demo-Migration umgestellt werden sollen):"
+
+#: ../ui.php:237
+msgid ""
+"Unable to detect menu. Please make sure that specified website URL is valid "
+"or click Get Estimate to proceed"
+msgstr ""
+"Kann Menü nicht finden. Bitte stelle sicher, dass die angegebene Webseiten "
+"URL gültig ist oder klicke auf Angebot erstellen, um fortzufahren."
+
+#: ../ui.php:237
+msgid "Migration Options:"
+msgstr "Migrationsmöglichkeiten:"
+
+#: ../ui.php:237
+msgid "Proceed"
+msgstr "Proceder"
+
+#: ../ui.php:237
+msgid "Verify source"
+msgstr "Überprüfen quelle"
+
+#: ../ui.php:237
+msgid "or"
+msgstr "oder"
+
+#: ../ui.php:237
+msgid "Follow us on"
+msgstr "Folge uns auf"
